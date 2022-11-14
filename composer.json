@@ -1,0 +1,16 @@
+{
+  "name": "joyqhs/getui-pushapi-php-client-swoole",
+  "description": "getui php client swoole",
+  "keywords": ["getui", "getuilaboratory", "getui-pushapi-php-client","getui-pushapi-php-client-swoole", "pushapi"],
+  "homepage": "https://github.com/joyqhs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "getui",
+      "homepage": "https://github.com/joyqhs"
+    }
+  ],
+  "autoload": {
+    "classmap": [""]
+  }
+}
